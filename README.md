@@ -15,8 +15,8 @@ This chatbot is designed to provide helpful responses to user queries. It uses n
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/exam-simulator.git
-   cd exam-simulator
+   git clone https://github.com/BIGUDOM/chatbot.git
+   cd chatbot
 2. Run It
     ```bash
     python chat.py
@@ -39,3 +39,4 @@ This chatbot is designed to provide helpful responses to user queries. It uses n
 Disclaimer
 
 This chatbot is for informational purposes only and should not be relied upon for critical decisions.
+
