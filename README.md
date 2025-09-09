@@ -38,5 +38,21 @@ This chatbot is designed to provide helpful responses to user queries. It uses n
 
 Disclaimer
 
-This chatbot is for informational purposes only and should not be relied upon for critical decisions.
+> This chatbot is for informational purposes only and should not be relied upon for critical decisions.
+
+
+---
+
+## Author
+
+Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via [Github](https://github.com/BIGUDOM) or [Instagram](https://www.instagram.com/udomblessing481?igsh=dnUxNjE2dThrZGk3&utm_source=qr)
+
+
+In order to contribute or to report any bug, kindly open a descriptive issue about the bug or contribution.
+
+Adding an example of the bug or the intended feature or fix, is a good way to create an issue.
+
+## License
+MIT
+
 
